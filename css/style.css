@@ -13,3 +13,65 @@
 	  text-align:center;
 	  padding-left:5rem;
   }
+  
+#about
+{
+	background:#222;
+}
+#about h1
+{
+	text-align:center;
+	 color:#FFFFFF;
+	 padding-top:5rem;
+}
+#about p 
+{
+	 
+	 padding-top:2.5rem;
+	 color:#FFFFFF;
+	 padding-bottom:2.5rem;
+}
+#team h1
+{
+	padding-top:5rem;
+	padding-bottom:2.5rem;
+	text-align:center;
+}
+#contact
+{
+	background:#222;
+	
+}
+#contact h1
+{
+	text-align:center;
+	padding-top:5rem;
+	padding-bottom:2.5rem;
+	 color:#FFFFFF;
+}
+#contact h5,#contact p 
+{
+	text-align:center;
+	padding-top:1rem;
+}
+#footer 
+{
+	background:#222;
+	color:#FFFFFF;
+}
+#footer h4
+{
+	padding-top:2.5rem;
+	padding-bottom:1.5rem;
+	padding-left:4.2rem;
+}
+#footer h5 
+{
+	text-align:center;
+	padding-top:4.5rem;
+}
+.media i,.media a
+{
+	
+	text-align:center;
+}
