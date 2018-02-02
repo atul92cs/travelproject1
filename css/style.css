@@ -1,0 +1,15 @@
+#cover
+{
+  background: #222 url('../images/world.png') center center no-repeat;
+    background-size:cover;
+  display:flex;
+   height:700px;
+   margin-top:3.5rem;
+  }
+  
+  .searchbar
+  {
+	  padding-top:17rem;
+	  text-align:center;
+	  padding-left:5rem;
+  }
