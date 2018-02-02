@@ -1,6 +1,6 @@
 #cover
 {
-  background: #222 url('../images/world.png') center center no-repeat;
+  background: #222 	 url('../images/world.png') center center no-repeat;
     background-size:cover;
   display:flex;
    height:700px;
